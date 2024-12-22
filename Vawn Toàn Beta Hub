@@ -1,4 +1,4 @@
-local library = loadstring(game(('https://raw.githubusercontent.com/vantoandepzai/Vawn-Toan-Beta-hub/refs/heads/main/Vawn%20To%C3%A0n%20Beta%20Hub')))()
+local library = loadstring(game('https://raw.githubusercontent.com/vantoandepzai/Vawn-Toan-Beta-hub/refs/heads/main/Vawn%20To%C3%A0n%20Beta%20Hub'))()
 
 local x = library:CreateWindow("Lê Văn Toàn")
 
